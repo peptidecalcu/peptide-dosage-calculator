@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peptidecalcu.github.io/peptide-dosage-calculator/sitemap.xml
